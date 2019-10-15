@@ -15,6 +15,10 @@ public class WorldTime {
         DateTime amsterdam = currentTime.withZone(DateTimeZone.forID("Europe/Amsterdam"));
         System.out.println("Amsterdam: " + amsterdam.getHourOfDay() + ":" + amsterdam.getMinuteOfHour());
 
+
+        //hello
+
+        System.out.println("HELLO WORLD!!!!");
     }
 
 
